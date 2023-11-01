@@ -1,0 +1,2 @@
+# haskellprojects
+Projects in haskell
